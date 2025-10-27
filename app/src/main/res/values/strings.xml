@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">ActivityTransfer</string>
+    <string name="next">Next</string>
+    <string name="activity_text">some_text</string>
+    <string name="activity_lit">A</string>
 </resources>
